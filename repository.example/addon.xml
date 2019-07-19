@@ -2,14 +2,14 @@ o<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.RabbitRepo" name="RabbitRepo" version="1.0" provider-name="TheOPBunny">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/BRANCH_NAME_HERE/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/BRANCH_NAME_HERE/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/BRANCH_NAME_HERE/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/TheOPBunny/RabbitRepo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/TheOPBunny/RabbitRepo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/TheOPBunny/RabbitRepo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>RabbitRepo</summary>
+        <description>Repo for Einthusan</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
